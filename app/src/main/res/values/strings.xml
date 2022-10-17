@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">LazyColumn_And_RadioButton_Gallery</string>
+    <string name="aivazovski">Aivazovski</string>
+    <string name="salvador">Salvadot Dali</string>
+    <string name="vanGogh">Van Gogh</string>
+    <string name="klodMone">Claude Monet</string>
+    <string name="picaso">Pablo Picaso</string>
+    <string name="michelangelo">Michelangelo Buonarroti</string>
+    <string name="sandroBotticelli">Sandro Botticelli</string>
+    <string name="davinci">Leonardo Da Vinci</string>
+    <string name="warholeAndy">ANDY WARHOLE</string>
+
+    <string name="klod_mone">
+        Oscar-Claude Monet  14 November 1840 – 5 December 1926)
+        was a French painter and founder of impressionist painting who is seen as a key precursor to
+        modernism, especially in his attempts to paint nature as he perceived it. During his long
+        career, he was the most consistent and prolific practitioner of impressionism philosophy of
+        expressing one\'s perceptions before nature, especially as applied to plain air (outdoor) landscape painting.
+        The term \"Impressionism\" is derived from the title of his painting Impression, solely levant, exhibited in the 1874
+        (\"exhibition of rejects\") initiated by Monet and his associates as an alternative to the Salon.
+    </string>
+    <string name="warhole_Andy">
+      Andy Warhol was a successful magazine and ad illustrator who became a leading artist of the 1960s
+        Pop art movements. He ventured into a wide variety of art forms, including performance art, filmmaking,
+        video installations and writing and controversially blurred the lines between fine art and mainstream aesthetics
+        . Warhol died on February 22, 1987, in New York City.
+    </string>
+    <string name="michelangelo_Buonarroti">
+        Michelangelo di Lodovico Buoyant Simon ;
+        6 March 1475 – 18 February 1564, known simply as Michelangelo , was
+        an Italian sculptor, painter, architect and poet of the High Renaissance. Born in the Republic of Florence,
+        his work had a major influence on the development of Western art, particularly in relation to the Renaissance
+        notions of humanism and naturalism. He is often considered a contender for the title of the archetypal Renaissance man,
+        along with his rival and elder contemporary, Leonardo da Vinci. Given the sheer volume of surviving correspondence,
+        sketches, and reminiscences, Michelangelo is one of the best-documented artists of the 16th century and several scholars
+        have described Michelangelo as the most accomplished artist of his era.
+    </string>
+    <string name="Sandro_Botticelli">
+        Botticelli\’s name is derived from that of his elder brother Giovanni, a pawnbroker who was called
+    Botticelli (Little Barrel). As is often the case with Renaissance artists, most of the modern information
+    about Botticellis life and character derives from Giorgio Vassar Lives of the Most Eminent Painters, Sculptors,
+    Architects, as supplemented and corrected from documents. Botticelli father was a tanner who apprenticed Sandro to
+    a goldsmith after his schooling was finished. But, since Sandro preferred painting, his father then placed him under
+    Filippo Lippi, who was one of the most admired Florentine masters.
+    </string>
+    <string name="aivazovski_desc">
+        Ivan Konstantinovich Aivazovsky ( 29 July 1817 – 2 May 1900)
+        was a Russian Romantic painter who is considered one of the greatest masters of marine art.
+        Baptized as Hovhannes Aivazian, he was born into an Armenian family in the Black Sea port of
+        Feodosia in Crimea and was mostly based there.
+        Following his education at the Imperial Academy of Arts in Saint Petersburg, Aivazovsky traveled to Europe
+        and lived briefly in Italy in the early 1840s. He then returned to Russia and was appointed the main
+        painter of the Russian Navy. Aivazovsky had close ties with the military and political elite of the
+        Russian Empire and often attended military maneuvers. He was sponsored by the state and was well-regarded
+        during his lifetime. The saying \"worthy of Aivazovsky\'s brush\", popularized by Anton Chekhov, was used in
+        Russia for describing something lovely. He remains highly popular in Russia in the 21st century
+        </string>
+
+    <string name="salvador_dali">
+     Salvador Domingo Felipe Jacinto Dalí i Domènech, Marquess of Dalí of Púbol gcYC
+          11 May 1904 – 23 January 1989) was
+        a Spanish surrealist artist renowned for his technical skill, precise draftsmanship, and the striking
+        and bizarre images in his work.
+        Born in Figueres, Catalonia, Spain, Dalí received his formal education in fine arts in Madrid.
+        Influenced by Impressionism and the Renaissance masters from a young age he became increasingly
+        attracted to Cubism and avant-garde movements. He moved closer to Surrealism in the late 1920s
+        and joined the Surrealist group in 1929, soon becoming one of its leading exponents. His best-known work,
+        The Persistence of Memory, was completed in August 1931, and is one of the most famous Surrealist paintings
+</string>
+    <string name="van_gogh">
+        Vincent van Gogh, in full Vincent Willem van Gogh, (born March 30, 1853, Zundert, Netherlands—died July 29,
+        1890, Auvers-sur-Oise, near Paris, France), Dutch painter, generally considered the greatest
+        after Rembrandt van Rijn, and one of the greatest of the Post-Impressionists. The striking colour,
+        emphatic brushwork, and contoured forms of his work powerfully influenced the current of Expressionism in modern art.
+    </string>
+    <string name="pablo_picasso">
+        Pablo Picasso was one of the greatest artists of the 20th century, famous for paintings like
+        Guernica’ and for the art movement known as Cubism.
+        Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist and stage designer considered
+        one of the greatest and most influential artists of the 20th century. Picasso is credited, along with
+        Georges Braque, with the creation of Cubism.
+        Pablo Picasso was born in Málaga, Spain, on October 25, 1881  His father was Don José Ruiz Blasco, a painter and art teacher.
+        His gargantuan full name, which honors a variety of relatives and saints, is Pablo Diego José
+        Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano de la Santísima Trinidad Martyr Patricio Clito Ruíz y Picasso.
+    </string>
+    <string name="leonardo_da_vinci">
+   Leonardo di ser Piero da Vinci (15 April 1452 – 2 May 1519) was an Italian polymath of the High
+        Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor,
+        and architect. While his fame initially rested on his achievements as a painter, he also became
+        known for his notebooks, in which he made drawings and notes on a variety of subjects, including
+        anatomy, astronomy, botany, cartography, painting, and paleontology. Leonardo is widely regarded to
+        have been a genius who epitomized the Renaissance humanist ideal, and his collective works compose
+        a contribution to later generations of artists matched only by that of his younger contemporary, Michelangelo.
+</string>
+</resources>
